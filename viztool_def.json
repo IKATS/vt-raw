@@ -1,0 +1,8 @@
+{
+    "name": "Raw",
+    "types": [],
+    "classRef": RawViz,
+    "keyMap": {},
+    "desc": "Displays raw information",
+    "debugModeOnly": true
+}
